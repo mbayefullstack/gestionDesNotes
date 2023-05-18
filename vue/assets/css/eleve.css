@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 10vh;
+}
+.header{
+    background-color: #007f00d6;
+    height: 10vh;
+}
+
+li{
+    list-style: none;
+}
+ a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #000000;;
+    cursor: pointer;color: #fff;
+}
+a:hover{
+    
+    color: #000000d6;
+}
+.logo{
+    padding:  2.4vh;
+    width: 30vw;
+    height: 5vh;
+    color: #fff;
+    background-image: url(../images/logoo.png);
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: .8rem;
+    
+}
+.navbar{
+    width: 60vw;
+    height: 5vh;
+    padding: 2vh;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 3vh;
+}
