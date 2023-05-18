@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.jcc{
+    justify-content: center;
+}
+.jce{
+    justify-content: end;
+}
+.fdc{
+    flex-direction: column;
+}
+.aic{
+    align-items: center;
+}
+.fdr{
+    flex-direction: row;
+}
+.jcsa{
+    justify-content: space-around
+}
+.jcsb{
+    justify-content: space-between
+}

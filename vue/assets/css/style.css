@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #007f00d6;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    background-color: rgba(255, 255, 255,.9);
+    width: 25%;
+    height: 35%;
+    border-radius: 10px;
+}
+
+form{
+    row-gap: 4vh;
+
+}
+
+div input{
+    width: 20vw;
+    height: 3vh;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.input{
+    width: 20vw;
+    height: 3vh;
+    color: #fff;
+    background-color: #3d653dd6;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
